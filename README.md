@@ -1,147 +1,154 @@
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Vedant Nehulkar
+
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Vedant+Nehulkar;Full+Stack+Developer;Computer+Engineering+Student;MERN+Stack+Developer;Open+Source+Enthusiast" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Vedant%20Nehulkar&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=55" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/VedNehulkar)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VedNehulkar)
- 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/VedNehulkar)
- 
-![Views](https://komarev.com/ghpvc/?username=VedNehulkar\&style=for-the-badge\&color=blue)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
+## 🚀 About Me
+- 🔭 I'm currently working on Full Stack Web Applications
+- 🌱 I'm currently learning Spring Boot, System Design and Cloud Technologies
+- 🔥 Interested in Backend Development and Distributed Systems
+- 💬 Ask me about JavaScript, Java, React, Node.js
+- 📍 Based in Pune, India
+
+<br clear="both" />
+
+## 🌐 Connect with me:
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-nehulkar)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VedNehulkar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/VedNehulkar)
 
 </div>
 
----
+## 🛠 Languages and Tools:
 
-# 👨‍💻 About Me
+<div align="center">
 
-* 💻 Full Stack Developer
-* 🚀 Passionate about scalable web applications
-* 🌱 Exploring Node.js, Spring Boot, System Design and Cloud Technologies
-* 🔥 Interested in Backend Development and Distributed Systems
-* 📍 Pune, India
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,java,cpp&theme=dark" />
 
----
+**Frontend Technologies**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
-# 🛠️ Tech Stack
+**Backend Technologies**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
 
-### Languages
+**Databases & Messaging**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square\&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square\&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat-square\&logo=postgresql)
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" />
 
-### Frontend
+</div>
 
-![React](https://img.shields.io/badge/React-black?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square\&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square\&logo=css3)
+## 🚀 Featured Projects
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=flat-square\&logo=express)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=flat-square\&logo=springboot)
-
-### Databases & Messaging
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-black?style=flat-square\&logo=redis)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square\&logo=rabbitmq)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square\&logo=git)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square\&logo=postman)
-
----
-
-# 🚀 Featured Projects
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔨 BidRush
-
 Real-time auction platform with live bidding, WebSockets, Redis caching and scalable backend architecture.
 
 **Tech Stack:** PostgreSQL • Express • React • Node.js • Redis • RabbitMQ
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🍱 MessMate
-
 Subscription-based mess management system with attendance tracking and meal scheduling.
 
-**Tech Stack:** Spring Boot • Java • React • PostgreSQL 
+**Tech Stack:** Spring Boot • Java • React • PostgreSQL
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 💰 WEALTH
-
 Personal finance dashboard with budgeting tools, expense tracking and financial analytics.
 
 **Tech Stack:** Next.js • React • Node.js • PostgreSQL
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📂 More Projects
-
 Explore all repositories and ongoing projects on my GitHub profile.
 
-[View All Repositories](https://github.com/VedNehulkar?tab=repositories)
+[![View All Repositories](https://img.shields.io/badge/View%20All%20Repos-%23121011.svg?logo=github&logoColor=white)](https://github.com/VedNehulkar?tab=repositories)
 
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=VedNehulkar&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VedNehulkar&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&layout=compact&theme=tokyonight" />
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedNehulkar&theme=tokyo-night" />
-
----
-
-# 🏆 LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/VedNehulkar?theme=dark&ext=heatmap" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VedNehulkar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VedNehulkar&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🐍 Contribution Snake:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VedNehulkar/VedNehulkar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 📈 Activity Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedNehulkar&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 LeetCode Stats:
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/VedNehulkar?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+## 🎯 Current Focus:
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</div>
+
+- 🔥 Building scalable web applications
+- 🧠 Learning System Design patterns
+- ☁️ Exploring Cloud Technologies and Distributed Systems
+- 🌟 Contributing to open source projects
+
+## 📊 Profile Views Counter:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VedNehulkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+
+Show some ❤ by starring some of the repositories!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</div>
