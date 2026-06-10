@@ -1,204 +1,158 @@
 <div align="center">
-
-```
-██╗   ██╗███████╗██████╗  █████╗ ███╗   ██╗████████╗
-██║   ██║██╔════╝██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝
-██║   ██║█████╗  ██║  ██║███████║██╔██╗ ██║   ██║   
-╚██╗ ██╔╝██╔══╝  ██║  ██║██╔══██║██║╚██╗██║   ██║   
- ╚████╔╝ ███████╗██████╔╝██║  ██║██║ ╚████║   ██║   
-  ╚═══╝  ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Java+%7C+Spring+Boot;Building+systems+that+scale.;console.log(%22Hello%2C+World!%22);)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Vedant%20Nehulkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descColor=c9b8ff" />
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vedant-nehulkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=6e40c9" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VedNehulkar">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=c9b8ff" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/VedNehulkar">
+    <img src="https://img.shields.io/badge/LeetCode-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=VedNehulkar&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
+
 ---
 
-```bash
-$ whoami
-> vedant-nehulkar
+## 👋 &nbsp;About Me
 
-$ cat about.txt
-> Name    : Vedant Nehulkar
-> Role    : Full Stack Developer
-> Stack   : MERN | Java | Spring Boot | Next.js
-> Focus   : Scalable Web Apps & Backend Systems
-> Status  : Always building something new...
+```yaml
+name       : Vedant Nehulkar
+role       : Full Stack Developer
+location   : India
+focus      : Building scalable web applications & backend systems
+currently  : Crafting clean, performant, production-ready software
 ```
 
+- 🔭 &nbsp;Working on full-stack projects using **MERN**, **Next.js**, and **Spring Boot**
+- 🧠 &nbsp;Deep diving into **system design**, **microservices**, and **distributed systems**
+- ⚡ &nbsp;Passionate about writing clean code that scales
+- 💬 &nbsp;Ask me about anything **JavaScript**, **Java**, or **backend architecture**
+
 ---
 
-## `~/skills` &nbsp;—&nbsp; Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ff6b6b)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=6e40c9)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=c9b8ff)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=next.js&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF41)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=flat-square&logo=springboot&logoColor=6DB33F)
 
 **Databases & Messaging**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=DC382D)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a2e?style=flat-square&logo=rabbitmq&logoColor=FF6600)
 
-**Tools & DevOps**
+**DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-</div>
-
----
-
-## `~/projects` &nbsp;—&nbsp; Featured Work
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ ls -la ~/projects/                                               │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔨 [BidRush](https://github.com/VedNehulkar/BidRush)
-```
-> Real-time bidding platform
-> Stack : MERN + WebSockets
-> Status: [████████████] DEPLOYED
-```
-A competitive, real-time auction system with live bidding, countdown timers, and instant winner resolution.
-
-</td>
-<td width="50%">
-
-### 🍱 [MessMate](https://github.com/VedNehulkar/MessMate)
-```
-> Mess management system
-> Stack : MERN + Next.js
-> Status: [████████████] DEPLOYED
-```
-Smart hostel mess management — meal tracking, attendance, subscription & billing in one place.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 [EduConnect](https://github.com/VedNehulkar/Educonnect)
-```
-> Ed-Tech platform
-> Stack : MERN + Spring Boot
-> Status: [████████████] DEPLOYED
-```
-A platform bridging students and educators with course management, resources, and real-time collaboration.
-
-</td>
-<td width="50%">
-
-### 💰 [WEALTH](https://github.com/VedNehulkar/WEALTH)
-```
-> Finance tracker app
-> Stack : MERN + PostgreSQL
-> Status: [████████████] DEPLOYED
-```
-Personal finance dashboard — income/expense tracking, analytics, budgeting goals, and visual insights.
-
-</td>
-</tr>
-</table>
-
----
-
-## `~/stats` &nbsp;—&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedNehulkar&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedNehulkar&theme=chartreuse-dark&background=0d0d0d&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF4500&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
-
-<img width="49%" src="https://leetcard.jacoblin.cool/VedNehulkar?theme=dark&font=Fira%20Code&ext=heatmap&border=1&border_color=00FF41" />
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-## `~/graphs` &nbsp;—&nbsp; Contribution Activity
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VedNehulkar&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF4120&border_color=00FF41&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/VedNehulkar/BidRush">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=BidRush&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
+</a>
+<a href="https://github.com/VedNehulkar/MessMate">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=MessMate&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
+</a>
+
+<a href="https://github.com/VedNehulkar/Educonnect">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=Educonnect&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
+</a>
+<a href="https://github.com/VedNehulkar/WEALTH">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=WEALTH&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
+</a>
+
+</div>
+
+### 🔍 &nbsp;Project Highlights
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🔨 **[BidRush](https://github.com/VedNehulkar/BidRush)** | Real-time competitive auction platform with live bidding & countdown timers | MERN · WebSockets |
+| 🍱 **[MessMate](https://github.com/VedNehulkar/MessMate)** | Hostel mess management — meal tracking, subscriptions & billing | MERN · Next.js |
+| 🎓 **[EduConnect](https://github.com/VedNehulkar/Educonnect)** | Ed-tech platform connecting students & educators with course management | MERN · Spring Boot |
+| 💰 **[WEALTH](https://github.com/VedNehulkar/WEALTH)** | Personal finance dashboard with analytics, budgeting & visual insights | MERN · PostgreSQL |
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedNehulkar&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedNehulkar&theme=tokyonight&background=0d0d1a&border=6e40c9&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=c9b8ff&sideLabels=c9b8ff&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&text_color=c9d1d9&hide_border=false" />
+
+<img width="49%" src="https://leetcard.jacoblin.cool/VedNehulkar?theme=dark&font=Nunito&ext=heatmap&border=1&border_color=6e40c9&bg_color=0d0d1a" />
 
 </div>
 
 ---
 
-## `~/trophies` &nbsp;—&nbsp; Achievements
+## 📈 &nbsp;Contribution Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VedNehulkar&theme=matrix&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Vedant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedNehulkar&bg_color=0d0d1a&color=c9b8ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c920&border_color=6e40c9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `~/connect` &nbsp;—&nbsp; Find Me
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-```
-$ ping vedant --channels
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/vedant-nehulkar)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/VedNehulkar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/VedNehulkar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://github.com/VedNehulkar)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VedNehulkar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-┌────────────────────────────────────────────────┐
-│                                                │
-│   "First, solve the problem.                  │
-│    Then, write the code."  — John Johnson      │
-│                                                │
-│   [ system uptime: always building... ]        │
-│                                                │
-└────────────────────────────────────────────────┘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=VedNehulkar&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer&fontColor=ffffff" />
 </div>
