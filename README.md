@@ -1,158 +1,213 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Vedant%20Nehulkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&descColor=c9b8ff" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=220&section=header&text=Vedant%20Nehulkar&fontSize=56&fontColor=d4af37&fontAlignY=40&desc=⚔️%20Full%20Stack%20Developer%20⚔️&descSize=22&descAlignY=62&descColor=c9b8a8&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+> *"We do not sow — we build."*
+> 
+> **House Nehulkar** · First of His Name · Keeper of Clean Code · Lord of the Seven Stacks
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vedant-nehulkar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=6e40c9" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VedNehulkar">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=c9b8ff" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/VedNehulkar">
-    <img src="https://img.shields.io/badge/LeetCode-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=VedNehulkar&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
-</div>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/⚔️_LinkedIn-1a1a2e?style=for-the-badge&logoColor=d4af37&logo=linkedin&labelColor=0d0d0d&color=1a1208)](https://linkedin.com/in/VedNehulkar)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/🏰_GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=0d0d0d&color=1a1208)](https://github.com/VedNehulkar)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/🗡️_LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d0d0d&color=1a1208)](https://leetcode.com/VedNehulkar)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=VedNehulkar&style=for-the-badge&color=8b1a1a&label=👁️+RAVENS+SENT)
+
+</div>
 
 ---
 
-## 👋 &nbsp;About Me
+<div align="center">
 
-```yaml
-name       : Vedant Nehulkar
-role       : Full Stack Developer
-location   : India
-focus      : Building scalable web applications & backend systems
-currently  : Crafting clean, performant, production-ready software
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║            T H E   S C R O L L S   O F   T H E             ║
+ ║                   F I R S T   B U I L D E R                 ║
+ ╠══════════════════════════════════════════════════════════════╣
+ ║  House    ──  Nehulkar of Pune                               ║
+ ║  Title    ──  Full Stack Developer                           ║
+ ║  Sigil    ──  The Crowned Stag in a Sea of Code             ║
+ ║  Words    ──  "Ship Fast. Scale Hard. Break Nothing."        ║
+ ║  Realm    ──  India                                          ║
+ ║  Sworn To ──  Clean Code, Scalable Systems, The Dark Theme  ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
-- 🔭 &nbsp;Working on full-stack projects using **MERN**, **Next.js**, and **Spring Boot**
-- 🧠 &nbsp;Deep diving into **system design**, **microservices**, and **distributed systems**
-- ⚡ &nbsp;Passionate about writing clean code that scales
-- 💬 &nbsp;Ask me about anything **JavaScript**, **Java**, or **backend architecture**
+</div>
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+## ⚔️ &nbsp;The Maester's Knowledge — Tech Stack
 
 <div align="center">
 
-**Languages**
+**The Scrolls of Language**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ff6b6b)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=6e40c9)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=c9b8ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=d4af37)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=c9b8a8)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=8b6914)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=c9b8a8)
 
-**Frontend**
+**The Towers of the Web — Frontend**
 
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=d4af37)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572B6)
 
-**Backend**
+**The Strongholds — Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=d4af37)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=flat-square&logo=springboot&logoColor=6DB33F)
 
-**Databases & Messaging**
+**The Vaults — Databases & Messaging**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=DC382D)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a2e?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=DC382D)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d0d0d?style=flat-square&logo=rabbitmq&logoColor=FF6600)
 
-**DevOps & Tools**
+**The War Machines — DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=FF6C37)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=d4af37)
 
 </div>
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+## 🏰 &nbsp;The Great Keeps — Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/VedNehulkar/BidRush">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=BidRush&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
-</a>
-<a href="https://github.com/VedNehulkar/MessMate">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=MessMate&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
-</a>
-
-<a href="https://github.com/VedNehulkar/Educonnect">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=Educonnect&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
-</a>
-<a href="https://github.com/VedNehulkar/WEALTH">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VedNehulkar&repo=WEALTH&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false" />
-</a>
+*"A lord's legacy is written in what he builds, not what he conquers."*
 
 </div>
 
-### 🔍 &nbsp;Project Highlights
+<br/>
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🔨 **[BidRush](https://github.com/VedNehulkar/BidRush)** | Real-time competitive auction platform with live bidding & countdown timers | MERN · WebSockets |
-| 🍱 **[MessMate](https://github.com/VedNehulkar/MessMate)** | Hostel mess management — meal tracking, subscriptions & billing | MERN · Next.js |
-| 🎓 **[EduConnect](https://github.com/VedNehulkar/Educonnect)** | Ed-tech platform connecting students & educators with course management | MERN · Spring Boot |
-| 💰 **[WEALTH](https://github.com/VedNehulkar/WEALTH)** | Personal finance dashboard with analytics, budgeting & visual insights | MERN · PostgreSQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔨 [BidRush](https://github.com/VedNehulkar/BidRush)
+
+> *"When the ravens fly, the bidding begins."*
+
+A **real-time, scalable auction platform** built for high-concurrency battles. Live bidding with WebSockets, instant winner resolution, and a backend forged for scale.
+
+**⚙️ Forged with:** `MongoDB` · `Express` · `React` · `Node.js` · `WebSockets` · `Redis`
+
+[![BidRush](https://img.shields.io/badge/⚔️_Enter_the_Arena-8b1a1a?style=for-the-badge)](https://github.com/VedNehulkar/BidRush)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍱 [MessMate](https://github.com/VedNehulkar/MessMate)
+
+> *"Even a castle feeds its men."*
+
+A **subscription-based mess management system** with tiered plans, meal scheduling, automated billing cycles, and complete attendance tracking. Built on a robust Spring Boot backend.
+
+**⚙️ Forged with:** `Spring Boot` · `Java` · `React` · `PostgreSQL` · `RabbitMQ`
+
+[![MessMate](https://img.shields.io/badge/🏰_View_the_Keep-8b1a1a?style=for-the-badge)](https://github.com/VedNehulkar/MessMate)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [WEALTH](https://github.com/VedNehulkar/WEALTH)
+
+> *"Gold wins wars. Data wins finances."*
+
+A **personal finance dashboard** built with Next.js — income & expense tracking, smart budgeting goals, visual analytics charts, and actionable financial insights.
+
+**⚙️ Forged with:** `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Redis`
+
+[![WEALTH](https://img.shields.io/badge/💰_Open_the_Vault-8b1a1a?style=for-the-badge)](https://github.com/VedNehulkar/WEALTH)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<br/><br/>
+
+```
+╔══════════════════════════╗
+║   More battles ahead.    ║
+║                          ║
+║   The North Remembers.   ║
+║   The code ships on.     ║
+╚══════════════════════════╝
+```
+
+[![All Repos](https://img.shields.io/badge/⚔️_All_Campaigns-1a1208?style=for-the-badge&logo=github&logoColor=d4af37)](https://github.com/VedNehulkar?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📜 &nbsp;The Ravens & Records — GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedNehulkar&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&icon_color=6e40c9&text_color=c9d1d9&hide_border=false&count_private=true" />
+*"A maester keeps count. A lord keeps winning."*
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedNehulkar&theme=tokyonight&background=0d0d1a&border=6e40c9&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=c9b8ff&sideLabels=c9b8ff&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=6e40c9&title_color=c9b8ff&text_color=c9d1d9&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedNehulkar&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d0d0d&border_color=8b6914&title_color=d4af37&icon_color=8b1a1a&text_color=c9b8a8&hide_border=false&include_all_commits=true" />
 
-<img width="49%" src="https://leetcard.jacoblin.cool/VedNehulkar?theme=dark&font=Nunito&ext=heatmap&border=1&border_color=6e40c9&bg_color=0d0d1a" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedNehulkar&theme=tokyonight&background=0d0d0d&border=8b6914&stroke=8b6914&ring=d4af37&fire=8b1a1a&currStreakLabel=d4af37&sideLabels=d4af37&dates=c9b8a8&sideNums=c9b8a8&currStreakNum=ffffff" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=8b6914&title_color=d4af37&text_color=c9b8a8" />
+
+<img width="49%" src="https://leetcard.jacoblin.cool/VedNehulkar?theme=dark&font=Cinzel&ext=heatmap&border=1&border_color=8b6914&bg_color=0d0d0d" />
 
 </div>
 
 ---
 
-## 📈 &nbsp;Contribution Graph
+## 🗺️ &nbsp;The Battle Map — Contribution Graph
 
 <div align="center">
 
-[![Vedant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedNehulkar&bg_color=0d0d1a&color=c9b8ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c920&border_color=6e40c9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VedNehulkar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedNehulkar&bg_color=0d0d0d&color=d4af37&line=8b1a1a&point=d4af37&area=true&area_color=8b191910&border_color=8b6914)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer&fontColor=ffffff" />
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      ⚔️   "The night is dark and full of bugs."   ⚔️
+           But the commits keep coming.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer&fontColor=d4af37" />
 </div>
