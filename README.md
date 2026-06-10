@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Vedant Nehulkar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Computer+Engineering+Student&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
 </div>
 
 <br/>
@@ -27,25 +27,17 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on Full Stack Web Applications
-- 🌱 I'm currently learning Node.js, Spring Boot, System Design and Cloud Technologies
+- 🌱 I'm currently learning Spring Boot, System Design and Cloud Technologies
 - 🔥 Interested in Backend Development and Distributed Systems
 - 💬 Ask me about JavaScript, Java, React, Node.js
 - 📍 Based in Pune, India
-- ⚡ Fun fact: I build scalable systems one WebSocket at a time 😄
-
-<br/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VedNehulkar&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
 ## 🌐 Connect with me:
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VedNehulkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-nehulkar-57a66428b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VedNehulkar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/VedNehulkar)
 
@@ -53,36 +45,23 @@
 
 <br/>
 
-## 🛠 Languages and Tools:
+## 🛠 Languages and Tools
 
 <div align="center">
 
-**Languages**
-<br/>
+### Languages
 <img src="https://skillicons.dev/icons?i=js,java,cpp&theme=dark" />
 
-<br/><br/>
-
-**Frontend Technologies**
-<br/>
+### Frontend Technologies
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
-<br/><br/>
-
-**Backend Technologies**
-<br/>
+### Backend Technologies
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
 
-<br/><br/>
-
-**Databases & Messaging**
-<br/>
+### Databases & Messaging
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,rabbitmq&theme=dark" />
 
-<br/><br/>
-
-**Tools**
-<br/>
+### Tools
 <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" />
 
 </div>
@@ -175,13 +154,6 @@
 
 <div align="center">
   <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedNehulkar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VedNehulkar/VedNehulkar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
